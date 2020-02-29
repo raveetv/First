@@ -1,0 +1,16 @@
+﻿body 
+{
+    background-color: navajowhite
+}
+
+hr
+{
+            
+    border-color: red;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+
+
+}
